@@ -1,0 +1,43 @@
+body {
+    margin: 1px;
+    padding: 5px;
+    font-size: 100%;
+}
+h1 {
+    font-size: 200%;
+    font-weight: bold;
+
+}
+h2 {
+    font-size: 150%;
+    font-style: oblique;
+
+}
+li {
+    list-style: disc;
+}
+
+img {
+    width: 25%;
+    border: 3px dotted #0000ff;
+    padding: 25px;
+    border-radius: 20px;
+    margin: 10px;
+    
+}
+.banner{
+    width: 100%;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: #00ffff;
+}
+
+div h2{
+    color: #ff0000;
+}
+
+div div {
+    background-color: #ffff00;
+}
